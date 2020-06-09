@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoMyColorList</string>
+    <string name ="hint">Enter new color</string>
+    <string name="buttonAdd">Add New color</string>
+    <string name="buttonAddIndex">Add Index of color</string>
+</resources>
